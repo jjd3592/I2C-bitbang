@@ -1,0 +1,4 @@
+The main.c file was created and tested on a msp430g2353 chip. It is designed so that any 2 regular
+GPIO pins can be used to communicate using the I2C protocol. 
+Note: Remember to change the pins to any GPIO that 
+you want that will work for your project 
